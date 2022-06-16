@@ -1,0 +1,1 @@
+The subject (observable), maintains a list of its dependents, called observers. Notifies them automatically of any state changes, usually by calling one of their methods (update).
