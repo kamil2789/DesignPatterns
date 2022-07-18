@@ -1,0 +1,1 @@
+This design pattern is not implemented because it's quite obvious. Template method is a pattern when you add possibility to override some parts of algorithms in the child class.

@@ -1,0 +1,1 @@
+Another design pattern where implementation is not reasanble. It's just a std::optional in C++ or Option in Rust. Also changing nullptr to some empty implementation object is a way to implement this pattern. The biggest advantage is to avoid dereferencing nulltpr
